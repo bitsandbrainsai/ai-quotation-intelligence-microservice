@@ -1,5 +1,22 @@
-<h2>🏷️ Project Title</h2>
-<p><b>AI-Driven Quotation Microservice (FastAPI + Decimal Finance Engine + Bilingual AI Email Generator)</b></p>
+<div align="center">
+  <img 
+    src="assets/AI Quotation Intelligence Engine.png" 
+    alt="AI Quotation Intelligence Engine Logo Animation"
+    width="100%"
+  />
+
+  <h1 style="font-size: 3em; font-weight: 800; margin: 0.4em 0 0;">
+    AI Quotation Intelligence Engine  
+  </h1>
+
+  <h3 style="margin-top: 0.6em;">
+    Precision Pricing. Intelligent Automation. Scalable Sales Intelligence. 
+  </h3>
+
+  <p>
+    <em>An enterprise-grade AI microservice engineered to transform quotation workflows into a fully automated, intelligence-driven system. Built with FastAPI and strict Pydantic schema enforcement, it delivers deterministic, decimal-accurate pricing and tax computations with uncompromising data integrity.   </em>
+  </p>
+</div>
 
 <h2>🧩 Project Overview</h2>
 <p>
